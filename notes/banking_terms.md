@@ -1,5 +1,5 @@
 # Banking Terms
---- 
+
 ## Terms Seen in Dataset and Case Study
 
 ### Stakeholder
@@ -25,8 +25,6 @@ A sum of money that is borrowed from a bank with an interest rate. The money is 
 ### Customer Segments 
 
 ### Economic Changes
-
----
 
 ## Other Terms
 
@@ -70,9 +68,5 @@ Date of expiration for...
 
 ### Statement
 
----
-
 **Sources:**
 https://www.forbes.com/advisor/banking/glossary-of-basic-banking-terms/ 
-
----
