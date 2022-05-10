@@ -1,9 +1,5 @@
 # Split Data
 
-,"feature":{"0.0":"emp.var.rate","1.0":"emp.var.rate","accuracy":"emp.var.rate","macro avg":"emp.var.rate","weighted avg":"emp.var.rate"}
-
-,"feature":{"0":"emp.var.rate"}
-
 ### emp.var.rate (positive)
 
 #### Stats Table
