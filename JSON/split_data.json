@@ -1,6 +1,0 @@
-{"precision":{"0.0":1.0,"1.0":0.9717921527,"accuracy":0.9854755924,"macro avg":0.9858960764,"weighted avg":0.9858852947}
-,"recall":{"0.0":0.9709289617,"1.0":1.0,"accuracy":0.9854755924,"macro avg":0.9854644809,"weighted avg":0.9854755924}
-,"f1-score":{"0.0":0.9852500832,"1.0":0.98569431,"accuracy":0.9854755924,"macro avg":0.9854721966,"weighted avg":0.9854723664}
-,"support":{"0.0":4575.0,"1.0":4582.0,"accuracy":0.9854755924,"macro avg":9157.0,"weighted avg":9157.0}
-,"feature":{"0.0":"emp.var.rate_pos","1.0":"emp.var.rate_pos","accuracy":"emp.var.rate_pos","macro avg":"emp.var.rate_pos","weighted avg":"emp.var.rate_pos"}
-,"precision":{"0.0":0.9689288635,"1.0":0.860457408,"accuracy":0.9090243456,"macro avg":0.9146931357,"weighted avg":0.9158745473},"recall":{"0.0":0.8491580079,"1.0":0.9715568862,"accuracy":0.9090243456,"macro avg":0.9103574471,"weighted avg":0.9090243456},"f1-score":{"0.0":0.9050983387,"1.0":0.912638425,"accuracy":0.9090243456,"macro avg":0.9088683819,"weighted avg":0.9087862594},"support":{"0.0":2791.0,"1.0":2672.0,"accuracy":0.9090243456,"macro avg":5463.0,"weighted avg":5463.0},"feature":{"0.0":"emp.var.rate_neg","1.0":"emp.var.rate_neg","accuracy":"emp.var.rate_neg","macro avg":"emp.var.rate_neg","weighted avg":"emp.var.rate_neg"}}
