@@ -19,4 +19,4 @@
 
 ### Colab Notebooks
 
-- [Sam's]("https://gist.github.com/samanthastaheli/ad84a064cf10c5d561f67055cf5a8341")
+- [Sams]("https://gist.github.com/samanthastaheli/ad84a064cf10c5d561f67055cf5a8341")
