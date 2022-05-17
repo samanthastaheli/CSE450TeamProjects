@@ -10,7 +10,7 @@
 
 ## Module 3
 
-[Module 3 Assignment Page]("https://byui-cse.github.io/cse450-course/module-03/")
+[Module 3 Assignment Page](https://byui-cse.github.io/cse450-course/module-03/)
 
 ### Data Links:
 
@@ -19,4 +19,4 @@
 
 ### Colab Notebooks
 
-- [Sams]("https://gist.github.com/samanthastaheli/ad84a064cf10c5d561f67055cf5a8341")
+- [Sams](https://gist.github.com/samanthastaheli/ad84a064cf10c5d561f67055cf5a8341)
