@@ -15,7 +15,7 @@
 ### Data Links:
 
 - [Housing Dataset](https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/housing.csv)
-- [Housing Dataset Dictionary](module3/housing_data_terms.md)
+- [Housing Dataset Dictionary](https://github.com/samanthastaheli/CSE450TeamProjects/blob/main/Module3/housing_data_terms.md)
 
 ### Colab Notebooks
 
