@@ -10,9 +10,18 @@
 
 ## Module 3
 
-[Module 3 Assignment Page]("https://byui-cse.github.io/cse450-course/module-03/")
+[Module 3 Assignment Page](https://byui-cse.github.io/cse450-course/module-03/)
 
 ### Data Links:
 
-- [Housing Dataset]("https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/housing.csv")
+- [Housing Dataset](https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/housing.csv)
 - [Housing Dataset Dictionary](module3/housing_data_terms.md)
+
+## Module 4
+
+[Module 4 Assignment Page](https://byui-cse.github.io/cse450-course/module-04/)
+
+### Data Links:
+
+- [Bike Dataset](https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/bikes.csv)
+- [Bike Dataset Dictionary](Module4/data-dict.md)
